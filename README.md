@@ -1,0 +1,1 @@
+## This project is made from a plain js which shows you the slider. 
